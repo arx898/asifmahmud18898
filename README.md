@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asifalmahmud18898@gmail.com**
 
-- ⚡ Fact **I learn very slow and I want to learn**
+- ⚡ Fact **I learn very slow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifmahmud18898&show_icons=true&locale=en" alt="asifmahmud18898" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifmahmud18898&" alt="asifmahmud18898" /></p>
-
